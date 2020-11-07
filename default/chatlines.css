@@ -1,0 +1,27 @@
+  @font-face {
+    font-family: "Alegreya";
+    src: url("./fonts/AlegreyaSansSC-Medium.ttf");
+  }
+
+  @font-face {
+    font-family: "PlayfairDisplay";
+    src: url("./fonts/PlayfairDisplay-Regular.ttf");
+  }
+
+
+  .chatalines .chatlines-title-header
+  {
+  	font-family: "PlayfairDisplay";
+  }
+
+  .navbar-chatlines
+  {
+  	font-family: "Alegreya";
+  	
+  }
+
+  p
+  {
+  	font-family: "Alegreya";
+
+  }
